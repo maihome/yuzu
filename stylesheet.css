@@ -1,0 +1,23 @@
+.container {
+  width:1200px;
+}
+.cInner {
+  width:1000px;
+  margin:0 auto;
+  text-align:center;
+}
+.main {
+  back-ground:url("top-image.jpg")
+  width:100%;
+}
+.logo {
+  margin-top: 20px;
+  margin-left: 130px;
+}
+.h1 {
+  text-align: center;
+  margin-top: 90px;
+}
+.h2 {
+  margin-left: 150px;
+}
